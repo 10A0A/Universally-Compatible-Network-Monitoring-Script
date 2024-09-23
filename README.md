@@ -14,7 +14,8 @@ sudo apt install nmap speedtest-cli
 
 ### Usage
 ```bash
-curl -o network_monitor.sh https://raw.githubusercontent.com/10A0A/network-monitoring-scripts/main/network_monitor.sh
+curl -o network_monitor.sh https://raw.githubusercontent.com/10A0A/Universally-Compatible-Network-Monitoring-Script/main/network_monitor.sh
 chmod +x network_monitor.sh
 ./network_monitor.sh
+
 ```
